@@ -67,7 +67,7 @@
 #define USE_BARO_SPL06
 
 #define USE_MAG
-#define MAG_I2C_BUS             BUS_I2C2
+#define MAG_I2C_BUS             BUS_I2C1
 #define USE_MAG_ALL
 
 #define USE_RANGEFINDER
